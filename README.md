@@ -62,3 +62,4 @@ def rodada(jog):
             print "O Patife 2 venceu a corrida!"
             
     
+    ## CHAMAR FUNÇÃO. DAR RETURN NO FINAL DA FUNÇÃO.
